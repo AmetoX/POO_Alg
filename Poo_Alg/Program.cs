@@ -12,15 +12,19 @@ namespace Poo_Alg
         {
             int n;
             n = int.Parse(Console.ReadLine());
-            Console.WriteLine(n.SumaCifre());
+            Console.WriteLine(n.SumaCifra());
         }
     }
     public static class MyExtension 
     { 
-        public static int SumCifra(this int n)
+        public static int SumaCifra(this int n)
         {
             int suma= 0;
-            while()
+            while (n!=0)
+            {
+
+            }
+            return suma;
         }
     }
 
