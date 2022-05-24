@@ -7,7 +7,7 @@ namespace Lab_24_05
         //Probleme de pe pbinfo 171 , 119 , 943 , 56
         //1.Prima Cifra Minima dint-un sir de nr (Algoritm)
         //2.2 cele mai mari cifre dintr-un sir (Algaoritm)
-        //3.Ultima cifra sumei : nr 4 = > 1+2+3+4 , fiecare cifra ridicata la puterea 4
+        //3.Ultima cifra a sumei : nr 4 = > 1+2+3+4 , fiecare cifra ridicata la puterea 4
         //4.Citirea se încheie la introducerea valorii 0, reprezentând numărul de perechi citite 
         static void Main(string[] args)
         {
