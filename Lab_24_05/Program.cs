@@ -8,10 +8,10 @@ namespace Lab_24_05
         //1.Prima Cifra Minima dint-un sir de nr (Algoritm)
         //2.2 cele mai mari cifre dintr-un sir (Algaoritm)
         //3.Ultima cifra sumei : nr 4 = > 1+2+3+4 , fiecare cifra ridicata la puterea 4
-        //4.Citirea se încheie la introducerea valorii 0, reprezentând numărul de perechi citite 
+        //4.Citirea se încheie la introducerea valorii 0, reprezentând numărul de perechi citite
         static void Main(string[] args)
         {
-            Algoritm a; 
+            Algoritm a;
             a = new PrimaCifraMinimaAlgoritm();
             //a.Initiate();
 
